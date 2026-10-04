@@ -1,0 +1,4 @@
+reports/** -filter -text -diff
+catalog.csv text eol=lf
+README.md text eol=lf
+SHA256SUMS text eol=lf
